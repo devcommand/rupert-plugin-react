@@ -6,7 +6,7 @@
 5 verbose publish [ '.' ]
 6 verbose stack Error: Failed to parse json
 6 verbose stack Trailing comma in object at 33:3
-6 verbose stack   },
+6 verbose stack   }
 6 verbose stack   ^
 6 verbose stack     at parseError (/usr/local/lib/node_modules/npm/node_modules/read-package-json/read-json.js:379:11)
 6 verbose stack     at parseJson (/usr/local/lib/node_modules/npm/node_modules/read-package-json/read-json.js:68:23)
@@ -23,7 +23,7 @@
 13 error code EJSONPARSE
 14 error Failed to parse json
 14 error Trailing comma in object at 33:3
-14 error   },
+14 error   }
 14 error   ^
 15 error File: /Users/matthew/dev/rupert-plugin-react/package.json
 16 error Failed to parse package.json data.
