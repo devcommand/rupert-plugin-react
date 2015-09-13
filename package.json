@@ -1,6 +1,6 @@
 {
   "name": "devcommand-rupert-plugin-react",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Rupert configuration to use React with React Router",
   "repository": "git@github.com:devcommand/rupert-plugin-react.git",
   "main": "src/config.js",
