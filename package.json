@@ -1,8 +1,8 @@
 {
-  "name": "devcommand-rupert-plugin-angular",
-  "version": "0.1.1",
+  "name": "devcommand-rupert-plugin-react",
+  "version": "0.1.2",
   "description": "Rupert configuration to use React with React Router",
-  "repository": "git@github.com:devcommand/rupert-plugin-angular.git",
+  "repository": "git@github.com:devcommand/rupert-plugin-react.git",
   "main": "src/config.js",
   "author": "Matthew Beatty <matt.beatty@devcommand.co>",
   "keywords": [
